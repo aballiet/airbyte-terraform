@@ -4,6 +4,8 @@
 
 With this tool you can either directly generate a terraform provider using their Website or using their dedicated CLI.
 
+![airbyte-terraform-on-ui](./images/speak_easy_tf_provider_gen.png)
+
 Bot solutions require to have a SpeakEasy account
 
 # Steps for CLI genration
